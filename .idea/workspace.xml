@@ -7,6 +7,11 @@
     <list default="true" id="27729b9d-6fab-4854-b8c4-f8435fbc776b" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/.env.example" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/layout.tsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/lib/data.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/lib/definitions.ts" afterDir="false" />
